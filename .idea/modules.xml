@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dubboApiTest.iml" filepath="$PROJECT_DIR$/.idea/dubboApiTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../itheimaHealthApiAutoTest/.idea/itheimaHealthApiAutoTest.iml" filepath="$PROJECT_DIR$/../itheimaHealthApiAutoTest/.idea/itheimaHealthApiAutoTest.iml" />
+    </modules>
+  </component>
+</project>
